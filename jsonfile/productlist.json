@@ -1,0 +1,407 @@
+[
+    {
+        "id": 2483230,
+        "date": "2023-02-09T15:05:29",
+        "date_gmt": "2023-02-09T23:05:29",
+        "guid": {
+            "rendered": "https://techcrunch.com/?p=2483230"
+        },
+        "modified": "2023-02-09T13:42:48",
+        "modified_gmt": "2023-02-09T21:42:48",
+        "slug": "daily-crunch-atlassian-offers-jira-product-discovery-in-open-beta-release",
+        "status": "publish",
+        "type": "post",
+        "link": "https://techcrunch.com/2023/02/09/daily-crunch-atlassian-offers-jira-product-discovery-in-open-beta-release/",
+        "title": {
+            "rendered": "Daily Crunch: Atlassian offers Jira Product Discovery in open beta release"
+        },
+        "content": {
+            "rendered": "<p id=\"speakable-summary\"><em>To get a roundup of TechCrunch’s biggest and most important stories delivered to your inbox every day at 3 p.m. PST, </em><a href=\"https://techcrunch.com/newsletters/\"><em>subscribe here</em></a><em>.</em></p>\n<p>Bonjour, crunchy folks!</p>\n<p>It was a bit of a tense morning at TechCrunch HQ this morning: The news broke that <a href=\"https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/\">the company that owns TechCrunch, Yahoo, announced it is laying off 20% of its staff</a>, as <a href=\"https://twitter.com/asilbwrites\" target=\"_blank\" rel=\"noopener\">Amanda</a> reported. It seems the layoffs are mostly on the advertising tech side of the business, so hopefully the TechCrunch team’s jobs are safe — but this is tech layoffs hitting really close to home, with 1,600 coworkers shuffling on to new pastures. May you all find new employment opportunities soon, colleagues!</p>\n<p>Our featured Black History Month read today is bell hooks’ <a href=\"https://www.amazon.com/Yearning-Race-Gender-Cultural-Politics/dp/1138821756?crid=12BVX1YS2S11D&amp;keywords=yearning&amp;qid=1675372328&amp;s=books&amp;sprefix=yearning,stripbooks,123&amp;sr=1-1&amp;linkCode=sl1&amp;tag=000012392-20&amp;linkId=f6117d16494596ca5c169d32dea96639&amp;language=en_US&amp;ref_=as_li_ss_tl\" target=\"_blank\" rel=\"noopener\">Yearning: Race, Gender, and Cultural Politics</a>, a collection of her early cultural criticism pieces from the 1980s. It’s an amazing collection of essays about the oppressive structures of domination. It’s also really bloody depressing to realize how much of this is still relevant today, 30 to 40 years after the essays were first penned.</p>\n<p>— <a href=\"https://twitter.com/ChristineMHall\" target=\"_blank\" rel=\"noopener\">Christine</a> and <a href=\"http://twitter.com/haje\" target=\"_blank\" rel=\"noopener\">Haje</a></p>\n<h2>The TechCrunch Top 3</h2>\n<ul>\n<li><a href=\"https://techcrunch.com/2023/02/09/doordash-introduces-new-safety-features-for-riders-including-reduced-notifications/\"><strong>Safe and sound</strong></a>: DoorDash unveiled some new safety features for its delivery drivers that include reduced notifications and a way to let customers know that the driver is in the middle of a trip. <a href=\"https://twitter.com/indianidle\" target=\"_blank\" rel=\"noopener\">Ivan</a> has more.</li>\n<li><a href=\"https://techcrunch.com/2023/02/09/atlassians-jira-product-discovery-is-now-generally-available/\"><strong>Look what’s in open beta</strong></a>: Atlassian’s Jira Product Discovery, a tool for helping engineering and business teams prioritize and collaborate on new product ideas, is expected to be open to a general audience in the next three months, <a href=\"https://twitter.com/fredericl\" target=\"_blank\" rel=\"noopener\">Frederic</a> writes.</li>\n<li><a href=\"https://techcrunch.com/2023/02/09/djis-mini-2-se/\"><strong>Flying high</strong></a>: <a href=\"https://twitter.com/Haje\" target=\"_blank\" rel=\"noopener\">Haje</a> explains the features of the new DJI Mini 2 SE ultraportable drone and why he’s confused about the naming of this particular product.</li>\n</ul>\n<h2>Startups and VC</h2>\n<p>Over 90% of cybercrime activities that lead to financial fraud or identity theft start with an email impersonation, commonly known as phishing and spoofing, <a href=\"https://twitter.com/ulonnaya\" target=\"_blank\" rel=\"noopener\">Tage</a> reports. <a href=\"https://techcrunch.com/2023/02/08/sendmarc-nabs-7m-to-offers-email-protection-from-phishing-attacks-and-email-impersonation/\">Sendmarc just raised $7 million in Series A funding to offer individuals and businesses email protection</a> from such attacks and general email impersonation.</p>\n<p>Remember the piece we published about how <a href=\"https://techcrunch.com/2023/01/17/build-a-company-not-a-feature/\">a feature doesn’t make a business</a>? Twitter said that <a href=\"https://techcrunch.com/2023/02/08/twitter-says-the-basic-tier-of-its-api-will-cost-100-per-month/\">the basic API tier will cost $100 per month</a>, killing off hopes of hobbyist Twitter bots and a bunch of small business use cases, <a href=\"https://twitter.com/indianidle\" target=\"_blank\" rel=\"noopener\">Ivan</a> reports.</p><div class=\"piano-inline-promo\"></div>\n<p>Today was a hell of a day of news on the site, so instead of our usual five, we’ve got seven stories for you, ranging from fintech to NFTs to mushroomy meat (or meaty mushrooms).</p>\n<ul>\n<li><strong>A two-horned unicorn is a moonlit mute swan</strong>: <a href=\"https://twitter.com/ingridlunden\" target=\"_blank\" rel=\"noopener\">Ingrid</a> reports that Lunar, the Danish neobank valued at $2.2 billion last year, <a href=\"https://techcrunch.com/2023/02/09/lunar-the-danish-neobank-last-year-valued-at-2-2b-raises-38m-to-shoot-for-the-profitability-moon/\">raises $38 million</a> to shoot for the profitability moon.</li>\n<li><strong>Reaping the content marketing it sowed</strong>:<a href=\"https://techcrunch.com/2023/02/09/wikifarmer-uses-its-agricultural-knowledge-base-to-bring-people-to-its-marketplace/\"> Wikifarmer uses its agricultural knowledge base </a>to bring people to its marketplace, <a href=\"https://twitter.com/romaindillet\" target=\"_blank\" rel=\"noopener\">Romain</a> reports.</li>\n<li><strong>From Salesforce to Mystery Startup</strong>: <a href=\"https://twitter.com/ron_miller\" target=\"_blank\" rel=\"noopener\">Ron</a> writes that <a href=\"https://techcrunch.com/2023/02/08/former-salesforce-exec-bret-taylor-is-teaming-up-with-google-ar-vr-vet-clay-bavor-on-mystery-startup/\">former Salesforce exec Bret Taylor is teaming up with Google AR/VR vet Clay Bavor</a> on a still-in-stealth startup.</li>\n<li><strong>Buy now, pay later takes a dive</strong>:<a href=\"https://techcrunch.com/2023/02/08/affirms-stock-plunges-as-it-misses-earnings-cuts-500-jobs-and-shutters-crypto-unit/\"> Affirm’s stock plunges</a> as it misses earnings, <a href=\"https://twitter.com/bayareawriter\" target=\"_blank\" rel=\"noopener\">Mary Ann</a> reports. It also cuts 500 jobs and shutters its crypto unit.</li>\n<li><strong>Say hi to shroo-meat</strong>:<a href=\"https://techcrunch.com/2023/02/08/fable-foods-series-a/\"> Fable Food lands Series A </a>for its mushroom-based meat alternatives, <a href=\"https://twitter.com/catherineshu\" target=\"_blank\" rel=\"noopener\">Catherine</a> reports.</li>\n<li><strong>A power move</strong>: <a href=\"https://twitter.com/harrisonweber\" target=\"_blank\" rel=\"noopener\">Harri</a> reports that <a href=\"https://techcrunch.com/2023/02/08/microgrid-startup-boxpower-cut-emissions-wildfire-risk-macrogrid/\">BoxPower wants to cut emissions and wildfire risk </a>by taking power off the main grid.</li>\n<li><strong>The NFT war rages on</strong>: <a href=\"https://twitter.com/cookie\" target=\"_blank\" rel=\"noopener\">Connie</a> reports that, in a trademark battle between an NFT artist and a big brand, Hermès, <a href=\"https://techcrunch.com/2023/02/08/in-a-trademark-battle-between-an-nft-artist-and-a-big-brand-hermes-the-artist-just-lost/\">the artist just lost</a>.</li>\n</ul>\n<h2>4 video content tips for your startup’s growth marketing</h2>\n<p><div id=\"attachment_2482596\" style=\"width: 1034px\" class=\"wp-caption aligncenter\"><img aria-describedby=\"caption-attachment-2482596\" decoding=\"async\" loading=\"lazy\" class=\"size-full wp-image-2482596\" src=\"https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1270065089.jpg\" alt=\"mobile phone mounted on mini tripod with blank screen isolated on yellow background. copy space\" width=\"1024\" height=\"683\" srcset=\"https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1270065089.jpg 1500w, https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1270065089.jpg?resize=150,100 150w, https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1270065089.jpg?resize=300,200 300w, https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1270065089.jpg?resize=768,512 768w, https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1270065089.jpg?resize=680,453 680w, https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1270065089.jpg?resize=1200,800 1200w, https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1270065089.jpg?resize=50,33 50w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><p id=\"caption-attachment-2482596\" class=\"wp-caption-text\"><strong>Image Credits:</strong> <a href=\"https://www.gettyimages.com/search/photographer?photographer=ronstik\" target=\"_blank\" rel=\"noopener\">ronstik <span class=\"screen-reader-text\">(opens in a new window)</span></a> / Getty Images</p></div></p>\n<p>If your marketing plan doesn&#8217;t include TikTok, YouTube Shorts, or Instagram Reels, well, can you really call it a marketing plan?</p>\n<p>Video content is vital for driving early engagement, which is why growth expert Jonathan Martinez (formerly of Postmates, Uber and Chime) shares four tactics for getting started:</p>\n<ul>\n<li>Leverage creator marketplaces</li>\n<li>Produce short-form videos</li>\n<li>Build lasting creator relationships</li>\n<li>Cross-pollinate your videos</li>\n</ul>\n<p>&#8220;If you’re entering 2023 without a video content plan for your startup, you will be missing out on a significant resource for creating brand awareness and reaching more consumers,&#8221; writes Martinez.</p>\n<div class=\"embed breakout embed-oembed embed--techcrunch\">\n<blockquote class=\"wp-embedded-content\" data-secret=\"L6I6HHWhue\"><p><a href=\"https://techcrunch.com/2023/02/09/4-video-content-tips-for-your-startups-growth-marketing/\">4 video content tips for your startup’s growth marketing</a></p></blockquote>\n<p><iframe class=\"wp-embedded-content\" sandbox=\"allow-scripts\" security=\"restricted\" style=\"position: absolute; clip: rect(1px, 1px, 1px, 1px);\" title=\"&#8220;4 video content tips for your startup’s growth marketing&#8221; &#8212; TechCrunch\" src=\"https://techcrunch.com/2023/02/09/4-video-content-tips-for-your-startups-growth-marketing/embed/#?secret=MZORHJN2EZ#?secret=L6I6HHWhue\" data-secret=\"L6I6HHWhue\" width=\"800\" height=\"450\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></div>\n<p>Three more from the TC+ team:</p>\n<ul>\n<li><strong>What to do about missing info</strong>: <a href=\"https://twitter.com/haje\" target=\"_blank\" rel=\"noopener\">Haje</a>’s newest Pitch Deck Teardown is live, as he looks at <a href=\"https://techcrunch.com/2023/02/09/sample-seed-pitch-deck-spinach-io/\">Spinach.io’s $6 million seed deck</a>.</li>\n<li><strong>Chillin’ and illin’</strong>: <a href=\"https://twitter.com/abracarioca\" target=\"_blank\" rel=\"noopener\">Anna</a> wonders <a href=\"https://techcrunch.com/2023/02/08/why-more-startups-are-getting-compliant/\">why more startups are getting compliant</a>.</li>\n<li><strong>Bitcoin is back?</strong>:<a href=\"https://techcrunch.com/2023/02/08/bitcoin-holding-above-20000-offers-miners-hope-as-margins-become-healthier/\"> Bitcoin holding above $20,000</a> offers miners hope as margins become healthier, <a href=\"https://twitter.com/jacqmelinek\" target=\"_blank\" rel=\"noopener\">Jacquelyn</a> reports.</li>\n</ul>\n<p><a href=\"https://techcrunch.com/techcrunchplus/\"><em>TechCrunch+</em></a><em> is our membership program that helps founders and startup teams get ahead of the pack.</em><a href=\"https://link.techcrunch.com/click/26685582.342535/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS9zdWJzY3JpYmUvP3V0bV9tZWRpdW09VENuZXdzbGV0dGVyJnRwY2M9VENkYWlseW5ld3NsZXR0ZXI/6036d5494a049802a929497cBf82fd2bd\"><em> You can sign up here</em></a><em>. Use code “DC” for a 15% discount on an annual subscription!</em></p>\n<h2>Big Tech Inc.</h2>\n<p>Well, as you read from our introduction, we are reeling from Yahoo’s<a href=\"https://techcrunch.com/2023/02/09/yahoo-will-lay-off-20-of-staff-or-1600-people/\"> announcement that it is laying off 20% of staff</a>. <a href=\"https://twitter.com/asilbwrites\" target=\"_blank\" rel=\"noopener\">Amanda</a> has more on that. But that was not the only bad news hitting the tech scene today: <a href=\"https://twitter.com/fredericl\" target=\"_blank\" rel=\"noopener\">Frederic</a> reports that GitHub, owned by Microsoft, is <a href=\"https://techcrunch.com/2023/02/09/github-lays-off-10-and-goes-fully-remote/\">laying off 10% of its workers through the end of its fiscal year and going fully remote</a>. Meanwhile, <a href=\"https://twitter.com/psawers\" target=\"_blank\" rel=\"noopener\">Paul</a> writes that developer operations giant <a href=\"https://techcrunch.com/2023/02/09/gitlab-to-reduce-workforce-by-7/\">GitLab is cutting its employee base by 7%</a>.</p>\n<p>And we have four more for you:</p>\n<ul>\n<li><strong>It’s free, bay-bee!</strong>: Sling TV now has its own <a href=\"https://techcrunch.com/2023/02/09/sling-tv-launches-free-ad-supported-streaming-tv-service-sling-freestream/\">free ad-supported streaming service</a>,<a href=\"https://twitter.com/laurenforristal\" target=\"_blank\" rel=\"noopener\"> Lauren</a> reports.</li>\n<li><strong>Imitation is the sincerest form of flattery</strong>:<a href=\"https://techcrunch.com/2023/02/09/chatgpt-china-openai/\"> This is a pure good time in story form</a> by <a href=\"https://twitter.com/ritacyliao\" target=\"_blank\" rel=\"noopener\">Rita</a>, who writes that all of the ChatGPT frenzy is giving way to <a href=\"https://techcrunch.com/2023/02/09/chatgpt-china-openai/\">a hundred followers in China</a> all trying to get a piece of it.</li>\n<li><strong>Meta gets Supernatural</strong>: Following a Federal Trade Commission <a href=\"https://techcrunch.com/2022/07/27/ftc-is-suing-meta-to-block-acquisition-of-vr-fitness-app/\">lawsuit</a> over the summer,<a href=\"https://techcrunch.com/2023/02/09/meta-acquires-within-despite-ftc-concerns/\"> Meta acquires Within</a>,<a href=\"https://twitter.com/asilbwrites\" target=\"_blank\" rel=\"noopener\"> Amanda</a> reports.</li>\n<li><strong>Meet Sydney</strong>: <a href=\"https://twitter.com/fredericl\" target=\"_blank\" rel=\"noopener\">Frederic</a> takes you inside <a href=\"https://techcrunch.com/2023/02/08/hands-on-with-the-new-bing/\">the new Bing</a>.</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.</p>\n",
+            "protected": false
+        },
+        "author": 133574474,
+        "featured_media": 1967427,
+        "comment_status": "open",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "outcome": "",
+            "status": "",
+            "crunchbase_tag": 0,
+            "amp_status": "",
+            "carmot_uuid": "ccbe9d0f-dba0-32c1-9569-feab146f09f6"
+        },
+        "categories": [
+            20429,
+            577030455
+        ],
+        "tags": [
+            961220,
+            449557042,
+            202
+        ],
+        "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1153354404.jpg",
+        "parsely": {
+            "version": "1.0.0",
+            "rendered": ""
+        },
+        "shortlink": "https://tcrn.ch/3YDCpa9",
+        "parselyMeta": {
+            "parsely-title": "Daily Crunch: Atlassian offers Jira Product Discovery in open beta release",
+            "parsely-link": "https://techcrunch.com/2023/02/09/daily-crunch-atlassian-offers-jira-product-discovery-in-open-beta-release/",
+            "parsely-type": "post",
+            "parsely-pub-date": "2023-02-09T23:05:29+00:00",
+            "parsely-image-url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1153354404.jpg?w=680",
+            "parsely-author": [
+                "Christine Hall",
+                "Haje Jan Kamps"
+            ],
+            "parsely-section": "Startups",
+            "parsely-tags": "@post-id:2483230,venture,daily crunch,venture capital",
+            "parsely-metadata": "{\"@type\":\"NewsArticle\",\"mainEntityOfPage\":{\"@type\":\"WebPage\"},\"dateModified\":\"2023-02-09T21:42:48+00:00\",\"description\":\"Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".alpha\",\"#speakable-summary\"]},\"publisher\":{\"@type\":\"Organization\",\"name\":\"TechCrunch\",\"logo\":{\"@type\":\"imageObject\",\"url\":\"https:\\/\\/techcrunch.com\\/wp-content\\/themes\\/techcrunch-2017\\/images\\/logo-json-ld.png\",\"width\":\"600\",\"height\":\"60\"}}}"
+        },
+        "rapidData": {
+            "pt": "",
+            "pct": ""
+        },
+        "premiumContent": false,
+        "premiumCutoffPercent": 1,
+        "featured": false,
+        "subtitle": "",
+        "editorialContentProvider": "",
+        "authors": [
+            133574474,
+            2217712
+        ],
+        "hide_featured_image": false,
+        "canonical_url": "https://techcrunch.com/2023/02/09/daily-crunch-atlassian-offers-jira-product-discovery-in-open-beta-release/",
+        "primary_category": {
+            "term_id": 20429,
+            "name": "Startups",
+            "slug": "startups",
+            "term_group": 0,
+            "term_taxonomy_id": 39233,
+            "taxonomy": "category",
+            "description": "Tech startup coverage that breaks down the funding, growth, and long-term trajectory of companies across every stage and industry, including climate, crypto, fintech, SaaS, transportation, and consumer tech.",
+            "parent": 0,
+            "count": 44820,
+            "filter": "raw"
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https://techcrunch.com/wp-json/wp/v2/posts/2483230"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=2483230"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 8,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/posts/2483230/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 2483285,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/posts/2483230/revisions/2483285"
+                }
+            ],
+            "authors": [
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/tc/v1/users/133574474"
+                },
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/guest-authors/haje-jan-kamps-2"
+                }
+            ],
+            "https://techcrunch.com/edit": [
+                {
+                    "href": "https://techcrunch.com/wp-admin/post.php?post=2483230&action=edit"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/tc/v1/users/133574474"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/media/1967427"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=2483230"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=2483230"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=2483230"
+                },
+                {
+                    "taxonomy": "_tc_cb_tag_taxonomy",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=2483230"
+                },
+                {
+                    "taxonomy": "tc_stories_tax",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=2483230"
+                },
+                {
+                    "taxonomy": "tc_ec_category",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tc_ec_category?post=2483230"
+                },
+                {
+                    "taxonomy": "tc_event",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=2483230"
+                },
+                {
+                    "taxonomy": "tc_regions_tax",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tc_regions_tax?post=2483230"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2483216,
+        "date": "2023-02-09T13:55:36",
+        "date_gmt": "2023-02-09T21:55:36",
+        "guid": {
+            "rendered": "https://techcrunch.com/?p=2483216"
+        },
+        "modified": "2023-02-09T15:08:29",
+        "modified_gmt": "2023-02-09T23:08:29",
+        "slug": "lyft-shares-get-crushed-on-weak-guidance-for-first-quarter",
+        "status": "publish",
+        "type": "post",
+        "link": "https://techcrunch.com/2023/02/09/lyft-shares-get-crushed-on-weak-guidance-for-first-quarter/",
+        "title": {
+            "rendered": "Lyft shares get crushed on weak guidance for first quarter"
+        },
+        "content": {
+            "rendered": "<p id=\"speakable-summary\">Lyft beat the Street on revenue in the fourth quarter, but it wasn&#8217;t enough to assuage investors who reacted to the ride-hailing company&#8217;s weak guidance for the first three months of 2023.</p>\n<p>Lyft lowered expectations for revenue in the first quarter to $975 million, a decline of about $200 million. Analysts had expected the company to promise $1.09 billion in revenue. That guidance sent shares plummeting 25% in after-hours trading Thursday to $12.13.</p>\n<p><span style=\"font-weight: 400;\">Logan Green, Lyft’s CEO and co-founder, said the colder weather would lead to a drop in ride-hail and bike and scooter usage, putting pressure on the company&#8217;s Q1 guidance.</span></p>\n<p>&#8220;Prime time is coming down dramatically quarter over quarter because of increased driver supply,&#8221; Green added, noting that having more drivers is good for keeping Lyft&#8217;s service levels competitive, which could lead to better long-term growth. Green also attributed Lyft&#8217;s lowered Q1 guidance to a slightly reduced base pricing &#8220;to remain competitive with the industry.&#8221;</p>\n<h2>Lyft surpasses revenue expectations</h2>\n<p>Lyft reported Thursday $1.2 billion in revenue in the fourth quarter, a 21% increase from the $969.9 million it generated in the same year-ago period. Revenue for all of 2022 reached $4.1 billion, a 28% year-over-year increase versus $3.2 billion in 2021.</p>\n<p>Lyft&#8217;s revenue, active rider and revenue per active rider results beat <a href=\"https://finance.yahoo.com/quote/LYFT/analysis/\" target=\"_blank\" rel=\"noopener\">analyst expectations</a>, closing out the year with 20.36 million active riders and $57.72 in revenue per active rider, which is up 8.7% and 11.5% from last year.</p>\n<p>Still, shareholders were more affected by the company guidance for the first quarter.</p><div class=\"piano-inline-promo\"></div>\n<p><span style=\"font-size: 1rem; letter-spacing: -0.1px;\">Lyft needed a win after its third quarter earnings report, when the company missed Wall Street estimates for revenue and active riders, causing its stock to tank 22%. Despite the beat, Lyft shares dropped 3.16% at market close and are trading nearly 24% lower in after hours. </span></p>\n<p>Lyft&#8217;s net loss was $588.1 million in the fourth quarter, compared to $283.2 million the year prior. Lyft attributes much of that loss to $201.3 million of stock-based compensation and related payroll tax expenses.</p>\n<p>The company also <a href=\"https://www.sec.gov/ix?doc=/Archives/edgar/data/0001759509/000175950923000016/lyft-20221103.htm\" target=\"_blank\" rel=\"noopener\">reported</a> a loss of $29.5 million in employe severance and other employee costs, as well as $9.5 million in net stock-based compensation expense, as a result of layoffs in the fourth quarter. In November, <a href=\"https://techcrunch.com/2022/11/03/lyft-lays-off-13-of-workforce-as-it-tries-to-slash-operating-expenses/\">Lyft cut 13% of its workforce</a> in an attempt to reduce operating expenses. At the time, the company had estimated it would incur $27 million to $32 million due to the restructuring.</p>\n<p>All of those losses compounded to bring Lyft to a full year net loss of $1.6 billion, which is up from a net loss of $1.1 billion in 2021.</p>\n<p>The company closed out the quarter with $1.8 billion in cash.</p>\n<h2>The state of the ride-hail industry</h2>\n<p><span style=\"font-weight: 400;\">Uber, Lyft’s main competitor and oft-described “older sibling,” posted </span><a href=\"https://s23.q4cdn.com/407969754/files/doc_financials/2022/q4/Uber-Q4-22-Earnings-Press-Release.pdf\" target=\"_blank\" rel=\"noopener\"><span style=\"font-weight: 400;\">strong quarterly results</span></a><span style=\"font-weight: 400;\"> Wednesday, continuing its post-lockdown streak of bookings and revenue growth. Uber said it hit record trips, surpassing 2 billion trips globally in the fourth quarter, which averages almost 1 million trips per hour. Gross bookings, or the value of fares paid, grew 31% year over year.</span></p>\n<p><span style=\"font-weight: 400;\">Uber’s overall gross bookings, which include delivery and freight, grew 19% to $30.7 billion. This helped Uber get to Q4 revenue of $8.6 billion, a 50% year-over-year increase that beat Wall Street estimates. With earnings-per-share of $0.29, the ride-hail giant destroyed EPS estimates by 240%.</span></p>\n<p>This signals that the state of the ride-hail marketplace is improving as <span style=\"font-weight: 400;\">riders put the COVID-19 period firmly in their rearview mirrors. That has also led to a more competitive landscape that is putting pressure on Lyft&#8217;s Q1 revenue expectations.</span></p>\n<p><span style=\"font-weight: 400;\">“The better marketplace balance we see today creates significant opportunities for long-term profitable growth,” said Green in a statement. “</span><span style=\"font-weight: 400;\">To take advantage of this opportunity we must ensure competitive service levels.”</span></p>\n<p><span style=\"font-weight: 400;\">Green said to deliver strong shareholder returns, Lyft would need to reinforce its competitive position, service more demand and reduce its fixed and variable costs. That might mean more layoffs in the future, and Lyft&#8217;s chief financial officer Elaine Paul did hint on the earnings call at potential reductions in workforce and a shift to hiring a more international workforce &#8212; workers outside the U.S. are less likely to expect equity as part of compensation. It could also mean Lyft dropping other business lines.</span></p>\n<p><span style=\"font-weight: 400;\">Last July, </span><a href=\"https://techcrunch.com/2022/07/20/lyft-lays-off-about-60-employees-shutters-in-house-car-rentals-program/\"><span style=\"font-weight: 400;\">Lyft shuttered its in-house rental car service</span></a><span style=\"font-weight: 400;\"> and laid off 60 employees. One of Lyft’s other verticals is micromobility, specifically bike and scooter share operations, but it doesn’t look like Lyft is backing away from that just yet. The company last week revealed its </span><a href=\"https://techcrunch.com/2023/02/02/lyft-wants-to-reshape-shared-micromobility-with-dockable-e-scooter/\"><span style=\"font-weight: 400;\">new dockable e-scooter</span></a><span style=\"font-weight: 400;\">, which it hopes to be able to scale faster than its small dockless scooter business. Lyft’s balance sheet shows the company spent $115 million on buying property, equipment and scooter fleet, but the company doesn’t break down revenue by its different mobility offerings.</span></p>\n<p>Lyft also wants to try to capture more of the consumer transportation spend through, for example, its Lyft Pink membership, which the company <a href=\"https://techcrunch.com/2022/10/25/lyft-relaunches-monthly-subscription-plan-at-half-the-price/\">relaunched last November</a> at half the price. The company said it doubled its number of members in the fourth quarter. Lyft also <a href=\"https://www.lyft.com/chase\" target=\"_blank\" rel=\"noopener\">partnered with Chase</a> to deliver Sapphire Reserve card holders two years of free Lyft Pink membership status.</p>\n<p><span style=\"font-weight: 400;\">&#8220;Additionally, by integrating services for car owners into the Lyft app, like roadside assistance parking and maintenance, we can deliver even more value to the roughly 75% of Lyft riders who have a car,&#8221; said Green.</span></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Lyft beat the Street on revenue in the fourth quarter, but it wasn&#8217;t enough to assuage investors who reacted to the ride-hailing company&#8217;s weak guidance for the first three months of 2023. Lyft lowered expectations for revenue in the first quarter to $975 million, a decline of about $200 million. Analysts had expected the company [&hellip;]</p>\n",
+            "protected": false
+        },
+        "author": 133574434,
+        "featured_media": 1955111,
+        "comment_status": "open",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "outcome": "",
+            "status": "",
+            "crunchbase_tag": 0,
+            "amp_status": "",
+            "carmot_uuid": "35299fb0-c94b-37c9-ae8e-a594c994e67e"
+        },
+        "categories": [
+            2401
+        ],
+        "tags": [
+            1022121,
+            576596914,
+            403
+        ],
+        "jetpack_featured_media_url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1195517355.jpg",
+        "parsely": {
+            "version": "1.0.0",
+            "rendered": ""
+        },
+        "shortlink": "https://tcrn.ch/3leYjly",
+        "parselyMeta": {
+            "parsely-title": "Lyft shares get crushed on weak guidance for first quarter",
+            "parsely-link": "https://techcrunch.com/2023/02/09/lyft-shares-get-crushed-on-weak-guidance-for-first-quarter/",
+            "parsely-type": "post",
+            "parsely-pub-date": "2023-02-09T21:55:36+00:00",
+            "parsely-image-url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1195517355.jpg?w=680",
+            "parsely-author": [
+                "Rebecca Bellan"
+            ],
+            "parsely-section": "Transportation",
+            "parsely-tags": "@post-id:2483216,lyft,ride hail",
+            "parsely-metadata": "{\"@type\":\"NewsArticle\",\"mainEntityOfPage\":{\"@type\":\"WebPage\"},\"dateModified\":\"2023-02-09T23:08:29+00:00\",\"description\":\"Lyft beat the Street on revenue in the fourth quarter, but it wasn&#8217;t enough to assuage investors who reacted to the ride-hailing company&#8217;s weak guidance for the first three months of 2023. Lyft lowered expectations for revenue in the first quarter to $975 million, a decline of about $200 million. Analysts had expected the company [&hellip;]\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".alpha\",\"#speakable-summary\"]},\"publisher\":{\"@type\":\"Organization\",\"name\":\"TechCrunch\",\"logo\":{\"@type\":\"imageObject\",\"url\":\"https:\\/\\/techcrunch.com\\/wp-content\\/themes\\/techcrunch-2017\\/images\\/logo-json-ld.png\",\"width\":\"600\",\"height\":\"60\"}}}"
+        },
+        "rapidData": {
+            "pt": "",
+            "pct": ""
+        },
+        "premiumContent": false,
+        "premiumCutoffPercent": 1,
+        "featured": false,
+        "subtitle": "",
+        "editorialContentProvider": "",
+        "authors": [
+            133574434
+        ],
+        "hide_featured_image": false,
+        "canonical_url": "https://techcrunch.com/2023/02/09/lyft-shares-get-crushed-on-weak-guidance-for-first-quarter/",
+        "primary_category": {
+            "term_id": 2401,
+            "name": "Transportation",
+            "slug": "transportation",
+            "term_group": 0,
+            "term_taxonomy_id": 101982,
+            "taxonomy": "category",
+            "description": "Transportation includes all the present and future ways people and packages get from Point A to Point B, from scooters and e-bikes to autonomous vehicles, EVs, transit and evTOLs. We cover players big and small, from Tesla, GM, Uber, and Lyft, to small startups entering the automotive tech space.",
+            "parent": 0,
+            "count": 8086,
+            "filter": "raw"
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https://techcrunch.com/wp-json/wp/v2/posts/2483216"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://techcrunch.com/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://techcrunch.com/wp-json/wp/v2/types/post"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/comments?post=2483216"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 14,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/posts/2483216/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 2483337,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/posts/2483216/revisions/2483337"
+                }
+            ],
+            "authors": [
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/tc/v1/users/133574434"
+                }
+            ],
+            "https://techcrunch.com/edit": [
+                {
+                    "href": "https://techcrunch.com/wp-admin/post.php?post=2483216&action=edit"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/tc/v1/users/133574434"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/media/1955111"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://techcrunch.com/wp-json/wp/v2/media?parent=2483216"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/categories?post=2483216"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tags?post=2483216"
+                },
+                {
+                    "taxonomy": "_tc_cb_tag_taxonomy",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/crunchbase_tag?post=2483216"
+                },
+                {
+                    "taxonomy": "tc_stories_tax",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tc_stories_tax?post=2483216"
+                },
+                {
+                    "taxonomy": "tc_ec_category",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tc_ec_category?post=2483216"
+                },
+                {
+                    "taxonomy": "tc_event",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tc_event?post=2483216"
+                },
+                {
+                    "taxonomy": "tc_regions_tax",
+                    "embeddable": true,
+                    "href": "https://techcrunch.com/wp-json/wp/v2/tc_regions_tax?post=2483216"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
